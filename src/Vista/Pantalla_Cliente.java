@@ -109,10 +109,6 @@ public class Pantalla_Cliente extends javax.swing.JFrame {
         this.txt_title = txt_title;
     }
 
- 
-    
-    
-    
     
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
